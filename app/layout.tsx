@@ -17,6 +17,9 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   title: 'Vant — Tecnología hecha a tu medida',
   description: 'Diseñamos y construimos apps, sitios web y sistemas a la medida para negocios que ya no caben en una plantilla genérica.',
+  icons: {
+    icon: '/images/icon.svg',
+  },
 };
 
 export default function RootLayout({
