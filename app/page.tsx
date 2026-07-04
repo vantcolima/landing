@@ -1,5 +1,4 @@
 import { ContactForm } from '@/components/contact-form';
-
 const services = [
   {
     title: 'Apps & Webs a Medida',
@@ -72,16 +71,12 @@ export default function HomePage() {
           <div className="flex justify-center lg:justify-end">
             <div className="flex aspect-square w-full max-w-[520px] items-center justify-center border border-white/6 bg-surfaceAlt p-10 shadow-glow">
               <div className="flex h-full w-full items-center justify-center border border-dashed border-white/10 bg-[linear-gradient(135deg,rgba(255,255,255,0.02),rgba(227,133,105,0.04))]" aria-label="Placeholder visual">
-                <svg viewBox="0 0 24 24" className="h-20 w-20 text-gray-400/80" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-                  <rect x="3" y="4" width="18" height="16" rx="2" />
-                  <path d="M7 15l3-3 3 3 4-4" />
-                  <circle cx="9" cy="9" r="1.2" />
-                </svg>
+                <img src="/images/logo2.png" alt="Logo de Vant" className="h-20 w-20 object-contain" />
               </div>
             </div>
           </div>
         </section>
-
+    
         <section id="servicios" className="py-16 sm:py-20 lg:py-24">
           <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">Nuestros Servicios</h2>
 
