@@ -15,8 +15,8 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: 'Vant — Software empresarial a la medida',
-  description: 'Apps, webs y sistemas diseñados para negocios que demandan tecnología real y funcional.',
+  title: 'Vant — Tecnología hecha a tu medida',
+  description: 'Diseñamos y construimos apps, sitios web y sistemas a la medida para negocios que ya no caben en una plantilla genérica.',
 };
 
 export default function RootLayout({
