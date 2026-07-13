@@ -1188,8 +1188,8 @@ export default function HomePage() {
           </p>
           <ContactForm />
           <div className="cta-final-btns reveal d2">
-            <a href="mailto:hola@vant.com.mx" className="btn btn-solid">
-              hola@vant.com.mx
+            <a href="mailto:hola@vantmx.com.mx" className="btn btn-solid">
+              hola@vantmx.com.mx
             </a>
           </div>
         </div>
@@ -1209,7 +1209,7 @@ export default function HomePage() {
             <li><a href="#servicios">Servicios</a></li>
             <li><a href="#proceso">Proceso</a></li>
             <li><a href="#casos">Casos</a></li>
-            <li><a href="mailto:hola@vant.com.mx">Contacto</a></li>
+            <li><a href="mailto:hola@vantmx.com.mx">Contacto</a></li>
           </ul>
           <div className="footer-copy">
             © 2026 VANT — TECNOLOGÍA HECHA A TU MEDIDA
