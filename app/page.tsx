@@ -1000,7 +1000,7 @@ export default function HomePage() {
         <div className="hero-notch" />
 
         <div className="wrap">
-          <div className="eyebrow">EST. 2026 — MÉXICO</div>
+       
           <h1 className="hero-headline">
             <span className="line"><span>Tecnología que</span></span>
             <span className="line"><span>se siente <em>tuya</em>.</span></span>
